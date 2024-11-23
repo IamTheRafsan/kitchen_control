@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253306850749",
+    "project_id": "kitchen-921ff",
+    "storage_bucket": "kitchen-921ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253306850749:android:50a507055dd2ad10ec56d4",
+        "android_client_info": {
+          "package_name": "restaurant.digitalrangersbd.kitchen_control"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV8uNEOpkOOVfI0ryGBy6XM2pva3XH1Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
